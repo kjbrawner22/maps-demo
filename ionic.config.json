@@ -1,0 +1,8 @@
+{
+  "name": "maps-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5005a682"
+}
